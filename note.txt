@@ -17,3 +17,6 @@ How to save on sublime
 control + s
 
 we do not have to commit at a time
+
+you can push multiple commit in one shot
+there is no limit
