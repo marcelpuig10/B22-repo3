@@ -15,3 +15,5 @@ Now our work will continuew locally
 How to save on sublime
  on windows
 control + s
+
+we do not have to commit at a time
